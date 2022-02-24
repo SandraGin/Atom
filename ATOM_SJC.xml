@@ -1,0 +1,102 @@
+<feed xmlns="http://www.w3.org/2005/Atom" >
+        <title>Series de Amazon Prime</title>
+           <link href="https://github.com/SandraGin/Agregador_SJC"/>
+        <updated>2022-02-22T18:30:02Z</updated>
+        <author>
+            <name>Sandra Jiménez Caro</name>
+            <email>a19jicasa@iesgrancapitan.org</email>
+        </author>
+        <id>urn:uuid:1225c595-cfb8-4ebb-aaaa-80da354efa6a</id>
+            <entry>
+                <title>La rueda del tiempo</title>
+                <id>urn:uuid:1225c595-cfb8-4ebb-aaaa-80da344efa6a</id>
+                <updated>2022-02-22T11:30:02Z</updated>
+                <summary>La saga literaria de Robert Jordan saltó a la pequeña pantalla con esta serie original
+                de Amazon Prime Video, cargada de ambición y épica al estilo de 'El señor de los anillos' y 'Juego 
+                de tronos'. Con Rosamund Pike en el reparto, 'La rueda del tiempo' se ambienta en un mundo fantástico
+                 en el que únicamente algunas mujeres pueden acceder a la magia, y una de ellas tendrá que emprender
+                  la búsqueda del dragón renacido que salvará o destruirá a la humanidad.                
+                </summary>
+                <category term="Misterio" />
+                <author>
+                <name>Sandra Jiménez Caro</name>
+                <email>a19jicasa@iesgrancapitan.org</email>
+                </author>
+                <link rel="enclosure"
+                type="audio/mpeg"
+                title="MP3"
+                href="./nyan.mp3"
+                length="1234" /> 
+                 <link rel="alternate"
+                  type="audio/mpeg"
+                 href="https://open.spotify.com/track/5VOoT3AIIStTSN8cSMrSD4?si=5226fdefbd0e481f"/>      
+
+        </entry>
+        <entry>
+                <title>Nine perfect strangers</title>
+                <id>urn:uuid:1225c595-cfb8-4ebb-aaaa-80da344efa6b</id>
+                <updated>2022-02-22T11:31:02Z</updated>
+                <summary>Muy cercana a 'The White Lotus', y perfecta para fans de 'Big Little Lies' y 'The Undoing', 
+            la nueva adaptación del trabajo de Liane Moriarty nos ofrece misterios y dramas de gente rica. En la historia, 
+            nueve personas asisten a un costoso "retiro de transformación total de mente y cuerpo" llamado Tranquillum House 
+            y dirigido por una misteriosa mujer rusa llamada Masha. El reparto está liderado por Nicole Kidman y cuenta con 
+            David E. Kelley como creador.
+                </summary>
+                <category term="Misterio" />
+                <author>
+                <name>Sandra Jiménez Caro</name>
+                <email>a19jicasa@iesgrancapitan.org</email>
+                </author>
+            <link rel="enclosure"
+                type="text/plain"
+                title="PDF"
+                href="atom.pdf"
+                length="1234" />
+                 <link rel="alternate"
+                  type="text/plain"
+                 href="https://moodle.iesgrancapitan.org/pluginfile.php/45428/mod_assign/introattachment/0/Act2-RA3%20-%20ATOM.pdf?forcedownload=1"/>     
+        </entry>
+        <entry>
+                <title>Historias para no dormir</title>
+                <id>urn:uuid:1225c595-cfb8-4ebb-aaaa-80da344efa6c</id>
+                <updated>2022-02-22T11:33:02Z</updated>
+                <summary>Cuatro cineastas se han propuesto repetir el formato antológico que Narciso Ibáñez Serrador 
+            exhibió en 1966, y con el que hizo historia de la televisión bajo el nombre de 'Historias para no dormir'.
+             La serie, que marcaría a toda una generación de fans del terror, ahora se reinventa con cuatro historias: 
+             'La broma' de Rodrigo Cortés, 'El doble' de Rodrigo Sorogoyen, 'Freddy' de Paco Plaza y 'El asfalto' 
+             de Paula Ortiz.
+             </summary>
+                <category term="Misterio" />
+                <author>
+                <name>Sandra Jiménez Caro</name>
+                <email>a19jicasa@iesgrancapitan.org</email>
+                </author>  
+                <content type="xhtml">
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                        <h1>Notas</h1>
+                        <ul>
+                            <li>00:01:00 -- Introducción</li>
+                            <li>00:15:00 -- Hablando de Atom 1.0</li>
+                            <li>00:30:00 -- Ejemplos</li>
+                        </ul>
+                    </div>
+            </content>          
+            </entry>
+            <entry>
+                <title>Cruel Summer</title>
+                <link href="https://www.elconfidencial.com/television/series-tv/2021-08-28/cruel-summer-serie-amazon-prime-video-thriller-adolescente_3243638/"/>
+                <id>urn:uuid:1225c595-cfb8-4ebb-aaaa-80da344efa6d</id>
+                <updated>2022-02-22T11:34:02Z</updated>
+                <summary>Ambientada en los 90, este thriller está cargado de misterios, drama adolescente
+             y mucho entretenimiento para quien ande buscando una adicción seriéfila. La historia, ambientada en 
+             una pequeña ciudad de Texas, se desata tras el secuestro de la más guapa y popular del instituto, Kate Wallis,
+              y cuando otra chica, Jeanett pasa a ocupar su lugar y, de paso, convertirse en la persona más despreciada de 
+              todo el país.</summary>
+                <category term="Misterio" />
+                <author>
+                <name>Sandra Jiménez Caro</name>
+                <email>a19jicasa@iesgrancapitan.org</email>
+                </author>            
+            </entry>
+    
+</feed>
